@@ -8,6 +8,7 @@ import org.testng.annotations.Test;
 
 public class testcase1 {
 	@BeforeTest
+	//Made Changes
 	public void testDB()
 	{
 		System.out.println("Connect DB");
